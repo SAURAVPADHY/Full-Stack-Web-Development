@@ -1,0 +1,31 @@
+1.What is the Internet? Explain in your own words
+-------------------------------------------------
+The Internet is a vast network of computers and devices all around the world that are connected to each other. It allows people to share information, communicate, and access services from almost anywhere. Imagine it as a huge web that links together millions of smaller networks, enabling things like browsing websites, sending emails, streaming videos, and chatting with friends. It's like a digital highway where data travels, connecting people and places across the globe.
+
+
+2.What is a web browser? Explain in your own words
+------------------------------------------------
+A web browser is a software application that lets you access and view websites on the Internet. It's like a window to the web, where you can type in website addresses (URLs), search for information, and interact with different types of online content, such as text, images, videos, and more. Examples of web browsers include Google Chrome, Mozilla Firefox, Safari, and Microsoft Edge. They help translate the code and data from websites into the pages you see and interact with.
+
+
+3.What is a browser engine? Explain in your own words
+-----------------------------------------------------
+
+A browser engine is the core part of a web browser that takes the code from a website and turns it into the visual page you see on your screen. It's like the brain of the browser, interpreting the HTML, CSS, and JavaScript that make up a webpage, and then figuring out how to display the text, images, and interactive elements in the right way. The browser engine handles all the behind-the-scenes work to ensure that web pages look and function as intended. Examples of browser engines include Blink (used in Google Chrome) and Gecko (used in Mozilla Firefox).
+
+
+4.What is a static site? Explain in your own words
+------------------------------------------------
+
+A static site is a website made up of fixed content that doesn't change or update based on user interactions. Each page of the site is a pre-built HTML file that is delivered to the user's browser just as it is, without any need for server-side processing or database queries. Because the content is static, these sites are typically faster and simpler to host and maintain. They're often used for things like personal blogs, portfolios, or informational sites where the content doesn't need to be customized for each visitor.
+
+
+
+5.What is a dynamic site? Explain in your own words.
+--------------------------------------------------
+
+A dynamic site is a website that generates content on the fly based on user interactions, preferences, or other real-time factors. Unlike a static site, which has fixed content, a dynamic site pulls data from a database or server, processes it, and then builds the webpage that the user sees. This means that the content can change depending on who is visiting the site, what they're doing, or what's happening at that moment.
+
+For example, when you log into your social media account, the page you see is dynamically created to show your specific feed, notifications, and messages. Dynamic sites are often used for e-commerce, social media, and news websites where content needs to be personalized or frequently updated.
+
+
